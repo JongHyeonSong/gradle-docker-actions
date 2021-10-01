@@ -11,6 +11,6 @@ public class HelloController {
 	@ResponseBody
 	public String wow() {
 		
-		return "@@@@@##";
+		return "@@@@@##zz";
 	}
 }
